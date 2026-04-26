@@ -38,3 +38,26 @@ This project focuses on analyzing employee attrition data using Microsoft Excel.
 ### Files Included:
 - HR-Attrition-Analysis.xlsx
 - Screenshots of pivot tables and charts
+
+
+## Project 3: Financial Data Trends Analysis using Excel
+
+This project focuses on analyzing financial data trends over time using Microsoft Excel.
+
+### Key Analysis:
+- Monthly Revenue Analysis
+- Expense Trend Analysis
+- Comparison of Revenue and Expenses over time
+
+### Tools Used:
+- Microsoft Excel
+- Line Chart
+
+### Insights:
+- Revenue shows a steady increasing trend
+- Expenses are increasing but remain lower than revenue
+- Clear financial growth pattern observed over months
+
+### Files Included:
+- Financial-Data-Trends.xlsx
+- Screenshots of dataset and line chart
