@@ -1,4 +1,4 @@
-# Sales Data Analysis Project
+# Sales Dashbord Analysis Project
 
 This project includes analysis of sales data using Excel.
 
